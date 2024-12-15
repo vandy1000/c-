@@ -1,0 +1,11 @@
+#include <iostream> 
+using namespace std;
+int()
+{int a;
+cout<<"Enter a :";
+cin>>a;
+if (a<0)
+a=-a;
+cout<<"result = "<<a;
+    return 0;
+}
